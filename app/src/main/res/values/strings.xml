@@ -7,4 +7,12 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="scan">Scan</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="student_id">Student ID</string>
+    <string name="student">Student</string>
+    <string name="teacher">Teacher</string>
+
+    <string name="error_registration_failed">Registration error</string>
+    <string name="error_login_failed">Login error</string>
 </resources>
